@@ -9,6 +9,10 @@ Doing a multi-label classification I have used a three approaches:
 1.Normal Logistic Regression approach using scikit-Learn Libraries.
 2.Bi-gru stacked with Bi-lstm with max pooling Approach using keras backend tensorflow.
 3.Attention Mechanism with GRU using keras and manual functions with backend theano.
+
+
+Files contain the pictures of dataset details and pdf of presentation.
+The gui part has been done in Flask with normal ip/op.
 python version=2.7
 keras version=2.1.2
 tensorflow version=1.4.0
